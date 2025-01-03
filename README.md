@@ -61,7 +61,7 @@ Velocity Bikes es un ecommerce dedicado a la venta de accesorios, repuestos e in
 1. Clona este repositorio en tu servidor local:
 
    ```bash
-   git clone https://github.com/tu-usuario/VelocityBikes.git
+   git clone https://github.com/MiguelSJimenezV/VelocityBikesProject.git
    ```
 
 2. Copia el proyecto a la carpeta `htdocs` de XAMPP.
