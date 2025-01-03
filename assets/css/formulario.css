@@ -1,0 +1,87 @@
+
+#particles-js {
+    top: 0;
+    left: 0;
+	height: 100vh; 
+	width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+
+.formulario div:nth-of-type(1),
+.formulario div:nth-of-type(2),
+.formulario div:nth-of-type(3),
+.formulario div:nth-of-type(4),
+.formulario div:nth-of-type(5),
+.formulario div:nth-of-type(6),
+.formulario div:nth-of-type(8),
+.btn
+{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+.date input{
+    max-width: 33%;
+    margin:  0 .1%;
+    padding: 0 .3rem;
+}
+
+
+.btn{
+    padding: 0;
+}
+
+button{
+    padding: 1rem 0;
+    background-color: rgb(68, 68, 68);
+    color: aliceblue;
+    font-size: 1.3rem;
+    font-weight: bold;
+    border: 2px solid rgb(68, 68, 68);
+    border-radius: 0 1rem 0 1rem;
+    transition: all .3s;
+}
+
+button:hover{
+    background-color: #f2f2f2;
+    color: rgb(68, 68, 68);
+    border-radius: 1rem;
+    transition: all .3s;
+}
+
+
+  
+  .columna h3 {
+    margin-bottom: 10px;
+  }
+  
+  .columna ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .columna li{
+    padding: 5px 0;
+  }
+  
+
+  
+  .columna ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .columna ul li a:hover {
+    color: #ffcc00;
+  }
+  
+
+
+
+
+
+
+

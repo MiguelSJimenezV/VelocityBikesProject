@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "titulo": "¡Oferta Especial de Primavera!",
+      "descripcion": "Descuentos increíbles en una amplia gama de productos. ¡Aprovecha ahora y equípate para la temporada de primavera!",
+      "codigo": "SPRING2024"
+    },
+    {
+      "id": 2,
+      "titulo": "Envío Gratuito en Todas tus Compras",
+      "descripcion": "¡Haz tu pedido hoy y disfruta del envío gratuito en todas tus compras! No hay mínimo de compra requerido.",
+      "codigo": "FREESHIP"
+    },
+    {
+      "id": 3,
+      "titulo": "Oferta Limitada: 2x1 en Accesorios",
+      "descripcion": "¡Compra uno y llévate otro gratis! Aprovecha esta oferta especial en una selección de accesorios para motocicletas.",
+      "codigo": "2X1ACC"
+    },
+    {
+      "id": 4,
+      "titulo": "¡30% OFF en Nuestros Nuevos Productos!",
+      "descripcion": "Estamos emocionados de presentar nuestra última colección de productos. ¡Explora ahora para descubrir nuestras novedades!",
+      "codigo": "NEW2024"
+    }
+  ]
+  
