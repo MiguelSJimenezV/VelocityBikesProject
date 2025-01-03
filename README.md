@@ -92,10 +92,6 @@ Velocity Bikes es un ecommerce dedicado a la venta de accesorios, repuestos e in
 - **Carrito de compras**: Los usuarios pueden agregar productos y realizar pedidos.
 - **Interfaz responsiva**: Diseño adaptable a distintos dispositivos gracias a Bootstrap.
 
-## Capturas de pantalla
-
-_(Incluir capturas de pantalla del proyecto si están disponibles.)_
-
 ## Contribución
 
 Si deseas contribuir a este proyecto:
@@ -111,11 +107,7 @@ Si deseas contribuir a este proyecto:
    ```
 4. Envía un pull request.
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
 ---
 
 **Autor:** Miguel S. Jimenez V.  
-Para más información, contáctanos en la sección de Contacto del sitio web.
+
